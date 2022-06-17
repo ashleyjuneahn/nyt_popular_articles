@@ -10,7 +10,7 @@ I also include an Article class to easily obtain the compound polarity score for
 
 ## Conclusion
 
-The model's accuracy was 0.972, indicating that certain words in the headline can attract more readers than others and garner more clicks. Visualizations showed that the average polarity score of popular headlines was significantly more negative than that of non popular headlines. The ternary scatter plot also showed that popular headlines tended to have more negative words than positive words. Based on these results, the language used in article headlines can offer insight into what readers feel more compelled to click and read. A limitation to this project was that the number of articles in the NYT Most Popular API was significantly less than the number of articles in the NYT Archive API. More raw data points would have been more beneficial to the machine learning aspect of the project.
+The model's accuracy was 0.972, indicating that certain words in the headline can attract more readers than others and garner more clicks. Visualizations showed that the average polarity score of popular headlines was significantly more negative than that of non popular headlines. The ternary scatter plot also showed that popular headlines tended to have more negative words than positive words. Based on these results, the language used in article headlines can offer insight into what readers feel more compelled to click and read. A limitation to this project was that the number of articles in the NYT Most Popular API was significantly less than the number of articles in the NYT Archive API. More raw data for the 'popular' set of headlines would have been more beneficial to the machine learning aspect of the project.
 
 ![image](ternary_plot.png)
 
